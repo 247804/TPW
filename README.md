@@ -4,5 +4,5 @@
 
 | Name Surname (initials) | GUID                                     |
 | ----------------------- | ---------------------------------------- |
-| AB                      | `{FD9D086C-532F-4AAC-BB99-69D7798837D8}` |
-| Jan Kowalski            | `{44FBFCF5-4430-4964-878D-1867DC679E0D}` |
+| Hybert Szymański        | `{1209e02d-f819-4e63-a9b0-5f8f04adbf20}` |
+| Mateusz Dominiak        | `{ec9d962e-7e29-48b0-821d-cb66534b76fb}` |
